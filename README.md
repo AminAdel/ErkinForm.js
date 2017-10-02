@@ -24,7 +24,7 @@ insert "ErkinForm.js" into your html document :
 ```
 pay attention to the submit button, it is changed to a div tag with "submit" class.
 
-_that's it! ... ErkinForm will do the rest for you!_
+#### _that's it! ... ErkinForm will do the rest for you!_
 
 ## Some Points 
 - this plugin doesn't send unchecked radio inputs, only checked radio inputs will be sent.
