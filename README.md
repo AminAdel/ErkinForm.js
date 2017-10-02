@@ -1,6 +1,8 @@
 # ErkinForm.js
 a simple javascript plugin to create robot-protected forms
 
+
+
 ## Getting Started :
 insert "ErkinForm.js" into your html document :
 ```html
@@ -18,14 +20,15 @@ insert "ErkinForm.js" into your html document :
 ### then simply change your form like this :
 ```html
 <div class="ErkinForm" data-method="post" data-action="somewhere">
-  ....
+  ...
   <div class="submit">Submit</div>
 </div>
 ```
 pay attention to the submit button, it is changed to a div tag with "submit" class.
 
 
-### _that's it! ... ErkinForm will do the rest for you!_
+#### _that's it! ... ErkinForm will do the rest for you!_
+
 
 
 ## Some Points 
