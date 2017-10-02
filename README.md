@@ -22,7 +22,7 @@ insert "ErkinForm.js" into your html document :
   <div class="submit">Submit</div>
 </div>
 ```
-pay attention to the submit button, it changed to a div tag with "submit" class.
+pay attention to the submit button, it has changed to a div tag with "submit" class.
 
 #### _that's it! ... ErkinForm will do the rest for you!_
 
