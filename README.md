@@ -1,4 +1,4 @@
-# ErkinForm.js version 1.0.0
+# ErkinForm.js
 a simple javascript plugin to create robot-protected forms
 
 ## Getting Started :
