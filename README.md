@@ -2,9 +2,13 @@
 a simple javascript plugin to create robot-protected forms
 
 ## Getting Started :
-insert "ErkinForm.js" into your html document :
+this script needs jquery, so insert it into your html document :
 ```html
-<script type="text/javascript" src="your-folder-path/ErkinForm.js"></script>
+<script type="text/javascript" src="path-to-folder/jquery-3.2.1.min.js"></script>
+```
+then insert "ErkinForm.js" into your html document :
+```html
+<script type="text/javascript" src="path-to-folder/ErkinForm.js"></script>
 ```
 
 #### create your form normally
