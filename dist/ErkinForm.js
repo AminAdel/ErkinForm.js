@@ -126,7 +126,7 @@ function class_ErkinForm () {
 		
 		
 		// get textareas :
-		var textareas = $(form).find('select');
+		var textareas = $(form).find('textarea');
 		for (var i = 0; i < textareas.length; i++) {
 			var $this, $type, $name, $value;
 			$this = $(textareas[i]);
