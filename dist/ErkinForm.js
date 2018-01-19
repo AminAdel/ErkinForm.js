@@ -1,6 +1,6 @@
 //---> Create	:	1396.07.08
 //---> Finish	:	1396.07.10
-//---> Update	:	--
+//---> Update	:	1396.10.29
 /*****************************/
 $(document).ready(function () {
 	if ($('.ErkinForm').length > 0) {
