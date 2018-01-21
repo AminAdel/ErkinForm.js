@@ -109,7 +109,7 @@ function class_ErkinForm () {
 			var $this, $type, $name, $value;
 			$this = $(radios[i]);
 			$name = $($this).attr('name');
-			$value = 1;
+			$value = $($this).val();
 			html += '<input type="hidden" name="' + $name + '" value="' + $value + '">' + "\n";
 		}
 		
